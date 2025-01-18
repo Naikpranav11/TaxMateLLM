@@ -30,4 +30,4 @@ jobs:
           echo "GROQ_API_KEY=${{ secrets.GROQ_API_KEY }}" >> $GITHUB_ENV
 
       - name: Run Streamlit App
-        run: streamlit app.py
+        run: streamlit run app.py
