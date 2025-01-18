@@ -1,0 +1,9 @@
+streamlit
+langchain
+langchain-groq
+sentence-transformers
+python-dotenv
+pypdf
+langchain-community>=0.0.1
+qdrant-client>=1.0.0
+langchain-huggingface
